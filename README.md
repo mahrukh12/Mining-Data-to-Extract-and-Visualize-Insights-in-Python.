@@ -10,4 +10,5 @@ The hands on project on Mining Data to Extract and Visualize Insights in Python 
 *  Task 6: Visualize your dataset using principal component analysis (PCA).
 
 # Author: Mahrukh Malik
- Certificate Link:
+ Certificate Link: https://coursera.org/share/b34e28e68481e59e8706a7aa97b54180
+ 
